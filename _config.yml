@@ -24,15 +24,15 @@ author:
   name             : "Yitao Hu"
   avatar           : "images/Yitao_Hu.png"
   bio              : 
-  location         : "Tianjin, China"
   employer         : "Tianjin University (天津大学)"
-  pubmed           : 
+  location         : "Tianjin, China"
+  pubmed           : "55-B-122"
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yitao@tju.edu.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
+  bitbucket        : 
+  codepen          : 
   dribbble         :
   flickr           :
   facebook         :
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  office           : "55-B-122"
 
 
 # Reading Files
