@@ -33,16 +33,20 @@ In collaboration with research institutions like IBM Watson, Samsung Research an
 
 # Research 
 My research is aiming to build inference systems capable of <i style="color: blue;font-style: normal;">deploying LLM and DNN models in large-scale cloud clusters </i>with peak performance, efficiency and scalability.
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<ul>
+  <li>
+    <h3>Large Language Model System</h3>
+    <ul>
+    <li><i style="white-space: nowrap !important;font-weight: bold;font-size: 1em;">Seving Classic LLM</i>: Serving LLM applications brings new challenges due to their huge memory consumption and unpredictable output length. We designed novel LLM inference systems (qLLM, tgLLM) to minimize job completion time across LLM requests and to maximize model throughput and resource utilization. We also built various inference systems (InferRAG, InferMM) to manage computation resources under scenarios such as RAG and multi-modal.
+    </li>
+    <li></li>
+    </ul>
+  </li>
+</ul>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LLM_offline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
