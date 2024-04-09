@@ -25,9 +25,10 @@ author:
   avatar           : "images/Yitao_Hu.png"
   bio              : 
   school           : "Tianjin University"
-  schoolzh          : "(天津大学)"
+  schoolzh         : "(天津大学)"
   location         : "Tianjin, China"
-  college          : "Department of Computer Science"
+  college          : "Department of "
+  college2         : "Computer Science"
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "Email: yitao@tju.edu.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
