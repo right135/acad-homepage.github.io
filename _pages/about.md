@@ -32,7 +32,7 @@ In collaboration with research institutions like IBM Watson, Samsung Research an
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Research 
-My research is aiming to build inference systems capable of <i style="color: blue;">deploying LLM and DNN models in large-scale cloud clusters </i>with peak performance, efficiency and scalability.
+My research is aiming to build inference systems capable of <i style="color: blue;font-style: normal;">deploying LLM and DNN models in large-scale cloud clusters </i>with peak performance, efficiency and scalability.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
