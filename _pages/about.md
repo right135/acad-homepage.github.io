@@ -82,13 +82,35 @@ My research is aiming to build inference systems capable of <i style="color: blu
 <li>Valedictorian at SEIEE, Shanghai Jiao Tong University, 2014</li>
 </ul>
 
-# Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Teaching
+<ul>
+  <li>Computer Systems, TJU, 23Spring, 24Spring</li>
+  <li>Design and Analysis of Algorithms, TJU, 23Fall</li>
+  <li>Introduction to Internetworking, USC, 16Spring</li>
+</ul>
 
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Students
+<ul>
+  <li>Zhixin Zhao (PhD, 2022 - Now)<sup>1</sup></li>
+  <li>Liang Zheng (PhD, 2024 - Now)<sup>2</sup></li>
+  <li>Yingqin Chen (MS, 2021 - Now)<sup>2</sup></li>
+  <li>Jiaheng Gao (MS, 2022 - Now)</li>
+  <li>Linxuan Li (MS, 2022 - Now)</li>
+  <li>Guotao Yang (MS, 2023 - Now)<sup>1</a></sup></li>
+  <li>Ziqi Gong (MS, 2023 - Now)</li>
+  <li>Chen Shen (MS, 2023 - Now)</li>
+  <li>Jingyuan Xiao (MS, 2024 - Now)</li>
+  <li>Jinjun Yi (MS, 2024 - Now)</li>
+  <li>Zhengchao Wang (MS, 2024 - Now)</li>
+  <li>Wenxin Zhu (BS, 2023 - Now)</li>
+  <li>Mingfang Ji (BS, 2023 - Now)</li>
+  <li>Kai Zeng (BS, 2023 - Now)</li>
+  <hr>
+  <li class="co">1. co-advised with <a href="https://cic.tju.edu.cn/faculty/wyqu/index.html">Prof.Wenyu Qu</a>
+  </li>
+  <li class="co">2. co-advised with <a href="https://cic.tju.edu.cn/faculty/likeqiu/index.html">Prof.Keqiu Li</a>
+  </li>
+</ul>
 
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
