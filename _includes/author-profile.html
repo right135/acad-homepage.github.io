@@ -28,12 +28,19 @@
       <li><a href="https://cic.tju.edu.cn/english/home.htm"><i class="ai ai-pubmed-square ai-fw"></i>
           {{author.college}}</a></li>
       {% endif %}
-      {% if author.uri %}
-      <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+      {% if author.office %}
+      <li><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> {{author.office}}</li>
       {% endif %}
       {% if author.email %}
       <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email
           }}</a></li>
+      {% endif %}
+      {% if author.location %}
+      <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+      {% endif %}
+
+      {% if author.uri %}
+      <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.keybase %}
       <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i>
@@ -74,9 +81,7 @@
       <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i>
           Tumblr</a></li>
       {% endif %}
-      {% if author.bitbucket %}
-      <li><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> {{author.bitbucket}}</li>
-      {% endif %}
+
       {% if author.github %}
       <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i>
           Github</a></li>
@@ -143,9 +148,7 @@
       <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w"
             aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      {% if author.location %}
-      <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
+
     </ul>
     <div class="author__urls_sm">
       {% if author.uri %}
