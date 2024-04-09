@@ -37,13 +37,14 @@ My research is aiming to build inference systems capable of <i style="color: blu
   <li>
     <h3>Large Language Model System</h3>
     <ul>
-    <li>
-    <div class='paper-box'><div class='paper-box-image'><div><img src='images/LLM_offline.png' alt="sym" width="100%"></div></div>
-    <div class='paper-box-text' markdown="1">
-      <i style="white-space: nowrap !important;font-weight: bold;font-size: 1em;">Seving Classic LLM</i>: Serving LLM applications brings new challenges due to their huge memory consumption and unpredictable output length. We designed novel LLM inference systems (qLLM, tgLLM) to minimize job completion time across LLM requests and to maximize model throughput and resource utilization. We also built various inference systems (InferRAG, InferMM) to manage computation resources under scenarios such as RAG and multi-modal.
-    </div>
-    </div>
-    </li>
+      <li>
+        <div class='paper-box'><div class='paper-box-image'><div><img src='images/LLM_offline.png' alt="sym" width="100%"></div></div>
+        <div class='paper-box-text' markdown="1">
+          <i style="white-space: nowrap !important;font-weight: bold;font-size: 1em;">Seving Classic LLM</i>: Serving LLM applications brings new challenges due to their huge memory consumption and unpredictable output length. We designed novel LLM inference systems (qLLM, tgLLM) to minimize job completion time across LLM requests and to maximize model throughput and resource utilization. We also built various inference systems (InferRAG, InferMM) to manage computation resources under scenarios such as RAG and multi-modal.
+        </div>
+        </div>
+      </li>
+
     </ul>
   </li>
 </ul>
