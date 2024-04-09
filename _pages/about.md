@@ -96,7 +96,7 @@ My research is aiming to build inference systems capable of <i style="color: blu
   <li>Yingqin Chen (MS, 2021 - Now)<sup>2</sup></li>
   <li>Jiaheng Gao (MS, 2022 - Now)</li>
   <li>Linxuan Li (MS, 2022 - Now)</li>
-  <li>Guotao Yang (MS, 2023 - Now)<sup>1</a></sup></li>
+  <li>Guotao Yang (MS, 2023 - Now)<sup>1</sup></li>
   <li>Ziqi Gong (MS, 2023 - Now)</li>
   <li>Chen Shen (MS, 2023 - Now)</li>
   <li>Jingyuan Xiao (MS, 2024 - Now)</li>
