@@ -34,7 +34,7 @@ In collaboration with research institutions like IBM Watson, Samsung Research an
 # Research 
 My research is aiming to build inference systems capable of <i style="color: blue;font-style: normal;">deploying LLM and DNN models in large-scale cloud clusters </i>with peak performance, efficiency and scalability.
 
-<h3>Large Language Model System</h3>
+<h2>Large Language Model System</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LLM_offline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,7 +48,7 @@ My research is aiming to build inference systems capable of <i style="color: blu
 </div>
 </div>
 
-<h3>Deep Neural Network System</h3>
+<h2>Deep Neural Network System</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DNN_SLOpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
