@@ -62,11 +62,25 @@ My research is aiming to build inference systems capable of <i style="color: blu
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+# Selected Publications
+<ul>
+<li>[ASPLOS 24] FUYAO: DPU-enabled Direct Data Transfer for Serverless Computing (CCF-A)</li>
+<li>[IWQoS 23] <a href="https://ieeexplore.ieee.org/abstract/document/10188703">High-throughput Sampling, Communicating and Training for Reinforcement Learning Systems</a> (CCF-B)</li>
+<li>[TPDS 23] <a href="https://ieeexplore.ieee.org/abstract/document/10198904">Accelerating Data Delivery of Latency-Sensitive Applications in Container Overlay Network</a> (CCF-A)</li>
+<li>[SoCC 21] <a href="https://dl.acm.org/doi/abs/10.1145/3472883.3486993">Scrooge: A Cost-Effective Deep Learning Inference System</a> (CCF-B)</li>
+<li>[Middleware 18] <a href="https://dl.acm.org/doi/abs/10.1145/3274808.3274813">Olympian: Scheduling GPU Usage in a Deep Neural Network Model Serving System</a> (CCF-B)</li>
+<li>[Ubicomp 16] <a href="https://dl.acm.org/doi/abs/10.1145/2971648.2971674">ALPS: Accurate Landmark Positioning at City Scales</a> (CCF-A)</li>
+<li>[INFOCOM 14] <a href="https://ieeexplore.ieee.org/abstract/document/6848026">Critical Sensing Range for Mobile Heterogeneous Camera Sensor Networks</a> (CCF-A)</li>
+</ul>
 
 # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<ul>
+<li>Qiming Scholar, Tianjin University, 2023</li>
+<li>Chun-Tsung Scholar (<a href="https://mp.weixin.qq.com/s/rNHzswm6M2jHpe6u88JruQ">1st at SJTU</a>), Shanghai Jiao Tong University, 2014</li>
+<li>Valedictorian at SEIEE, Shanghai Jiao Tong University, 2014</li>
+</ul>
 
 # Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
