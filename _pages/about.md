@@ -25,7 +25,7 @@ My research interests include large language model (LLM) systems, deep neural ne
 
 In collaboration with research institutions like IBM Watson, Samsung Research and Microsoft Research, I have published tens of papers at the leading conferences/journals, including SoCC, Ubicomp, INFOCOM, IWQoS, ASPLOS and TPDS. My research has been funed by NSFC, Huawei, etc. I have received honors such as Chun-Tsung Scholar from Shanghai Jiao Tong University and Qiming Scholar from Tianjin University.
 
-<p style="color: red; font-size: 17px;"><strong>I am looking for self-motivated students interested in building systems for large language model and deep neural network. Feel free to <a href="mailto:yitao@tju.edu.cn" style="color:red;">drop me an email</a> if you want to join us!</strong></p>
+<p style="color: red; font-size: 17px;"><strong>I am looking for self-motivated students interested in building systems for large language model and deep neural network. Feel free to <a href="mailto:yitao@tju.edu.cn" style="color:inherit;">drop me an email</a> if you want to join us!</strong></p>
 
 <!-- # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
